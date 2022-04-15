@@ -26,7 +26,7 @@ const About = () => {
             <dt className="text-sm font-medium text-gray-500">About</dt>
             <dd className="mt-1 text-sm text-indigo-500 sm:mt-0 sm:col-span-2">
               Hi Everyone, I am Vishal from Khatima,Uttarakhand, India.
-“I am CodeYogi Student, CodeYogi Offers Me 6 Months Long Software Engineering Program”
+<dd className="mt-1 text-sm text-indigo-500 sm:mt-0 sm:col-span-2" >“I am CodeYogi Student, CodeYogi Offers Me 6 Months Long Software Engineering Program” </dd>
             </dd>
           </div>
         
