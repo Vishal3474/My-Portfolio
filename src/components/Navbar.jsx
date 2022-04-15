@@ -23,16 +23,7 @@ const Navbar = () => {
           <li><Link to="pricing" smooth={true} offset={-50} duration={500}>Resume</Link></li>
           </ul>
         </div>
-        <div className='hidden md:flex pr-4'>
-          <button className='border-none bg-transparent text-black mr-4'>
-            Sign In
-          </button>
-          <button className='px-8 py-3'>Sign Up</button>
-        </div>
-        <div className='md:hidden mr-4' onClick={handleClick}>
-            {!nav ? <MenuIcon className='w-5' /> : <XIcon className='w-5' />}
-          
-        </div>
+       
       </div>
 
       <ul className={!nav ? 'hidden' : 'absolute bg-zinc-200 w-full px-8'}>
