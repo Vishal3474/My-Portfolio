@@ -68,6 +68,8 @@ const About = () => {
         </dl>
       </div>
     </div>
+    </div>
+    </div>
   )
 }
 
