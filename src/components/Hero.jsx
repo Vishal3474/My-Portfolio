@@ -14,7 +14,7 @@ const Hero = () => {
         <div className='grid md:grid-cols-2 max-w-[1240px] m-auto'>
             <div className='flex flex-col justify-center md:items-start w-full px-2 py-8'>
                 <p className='text-2xl'>Hi There!</p>
-                <h1 className='py-3 text-5xl md:text-7xl font-bold'> I'M Vishal</h1>
+                <h1 className='py-3 text-5xl text-purple-500 md:text-7xl font-bold'> I'M Vishal</h1>
                
                 
             </div>
