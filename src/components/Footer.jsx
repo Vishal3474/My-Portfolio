@@ -11,7 +11,7 @@ import {
 const Footer = () => {
   return (
     <div className='w-full mt-24 bg-slate-900 text-gray-300 py-y px-2'>
-        <div className='max-w-[1240px] mx-auto grid grid-cols-2 md:grid-cols-6 border-b-2 border-gray-600 py-8'>
+        <div className='max-w-[1240px] mx-auto grid grid-cols-2 md:grid-cols-6 border-b-2 items-center border-gray-600 py-8'>
             
             <div className='col-span-2 pt-8 text-center items-center md:pt-2'>
                 <p className='font-bold uppercase'>Subscribe to our newsletter</p>
