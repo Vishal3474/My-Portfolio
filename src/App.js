@@ -4,7 +4,7 @@ import Footer from './components/Footer';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar'
 import Pricing from './components/Pricing';
-import Support from './components/Support'
+
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
       <Navbar />
       <Hero />
       <About />
-      <Support />
+      
       <AllInOne />
       <Pricing />
       <Footer />
