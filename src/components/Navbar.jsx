@@ -16,7 +16,7 @@ const Navbar = () => {
     
     <img class="w-20 h-16" src="https://cdn.discordapp.com/attachments/944189291427430421/964898796561641512/logo.png" alt="logo" />
           
-    <h1 class="text-purple-500 font-mono text-xl mr-20" > Vishal | Portfolio </h1>
+    <h1 class="text-purple-500 font-mono text-xl mr-65  sm:mr-16 " > Vishal | Portfolio </h1>
     
           <ul className="hidden md:flex">
             <li>
