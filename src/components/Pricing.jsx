@@ -9,7 +9,7 @@ const Pricing = () => {
     <div class=" border border-1 border-black ">
     <img  src="https://cdn.discordapp.com/attachments/944189291427430421/964783609896632320/demoResume.jpg"></img>
      </div>
-    <button className='p-2 mb-4'>Download Resume</button>
+    <button className='p-2 mb-4 mt-2 mb-2 text-center'>Download Resume</button>
     </div>
   );
 };
