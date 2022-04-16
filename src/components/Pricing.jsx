@@ -4,7 +4,7 @@ import { CheckIcon } from '@heroicons/react/solid';
 
 const Pricing = () => {
   return (
-    <div>
+    <div name='pricing' className='w-full my-32'  >
      <h1>hii testing</h1>
     </div>
   );
