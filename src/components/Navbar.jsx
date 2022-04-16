@@ -14,7 +14,7 @@ const Navbar = () => {
       <div className="px-2 flex justify-between items-center w-full h-full">
         <div className="flex items-center">
     
-    <img class="w-4 h-4"> src="https://cdn.discordapp.com/attachments/944189291427430421/964898796561641512/logo.png" alt="logo" />
+    <img class="w-4 h-4" src="https://cdn.discordapp.com/attachments/944189291427430421/964898796561641512/logo.png" alt="logo" />
           
           <ul className="hidden md:flex">
             <li>
