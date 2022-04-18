@@ -89,7 +89,7 @@ const AllInOne = () => {
               <CheckIcon className='w-7 mr-4 text-green-600' />
             </div>
             <div>
-              <h3 className='font-bold text-lg'>Notifications</h3>
+              <h3 className='font-bold text-lg'>Figma Responsibe Design</h3>
               <p className='text-lg pt-2 pb-4'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Asperiores maxime deserunt voluptatibus consequatur similique
@@ -102,7 +102,7 @@ const AllInOne = () => {
               <CheckIcon className='w-7 mr-4 text-green-600' />
             </div>
             <div>
-              <h3 className='font-bold text-lg'>Notifications</h3>
+              <h3 className='font-bold text-lg'>Guess My Favourite Fruit</h3>
               <p className='text-lg pt-2 pb-4'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Asperiores maxime deserunt voluptatibus consequatur similique
